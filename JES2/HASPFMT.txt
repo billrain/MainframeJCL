@@ -3,6 +3,6 @@
 //*=================================================================
 //STEP    EXEC PGM=IEBDG
 //SYSPRINT  DD SYSOUT=*
-//SPL     DD DSN=CPAC.HASPACE.V24,                                 
+//SPL     DD DSN=CPAC.HASPACE.V24,
 //           DISP=(NEW,KEEP),DCB=(DSORG=PSU,RECFM=U,BLKSIZE=3992),
-//           UNIT=SYSDA,VOL=SER=MPSPL9,SPACE=(TRK,(49500))
+//           UNIT=SYSDA,VOL=SER=VOL001,SPACE=(TRK,(49500))
