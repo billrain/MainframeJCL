@@ -1,11 +1,13 @@
 # MainframeJCL
+
 ## Summary
 Library of Mainframe JCL mostly used by **System Programmers**
  -- But of course helpful for **Dev and Ops** as well!
-* You can subscribe to my repo or **contribute** your own JCL here
+* You can **subscribe** to my repo or **contribute** your own JCL here
 * Play with **caution** if you have **privileged access**.
 * Refer to product manual for detail usage.
 * Author is NOT responsible for any outcome caused by this codes run on your systems.
+* The Author is still updating.
 
 ## List of JCL:
 
