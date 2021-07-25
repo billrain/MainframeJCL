@@ -15,8 +15,10 @@ Simple steps to upgrade CICS from 5.4 to 5.6
 14. Update CICS STC PROCs
 15. Create DFHPLTIx and DFHPLTSx in DFHTABLE DD of CICS PROC
 16. Update CICS SIT parm
-17. Update JVMprofile if any
-18. Start CICS
+17. Re-assember user modified option table
+18. Update JVMprofile if any
+19. Start CICS
+
 For CICSPLEX CMAS and WUA:
 1. Allocate 5.6 CMAS EYUDREP
 2. Allocate 5.6 WUA EYUWREP
