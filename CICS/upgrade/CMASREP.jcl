@@ -22,10 +22,10 @@
 //*-----------------------------------------------------------  
 //DREPINIT EXEC PGM=EYU9XDUT,                                   
 //             COND=(8,LT),                                     
-//             PARM=('CMASNAME=CICSCMST',                       
+//             PARM=('CMASNAME=CICSCMAS',                       
 //             'DAYLIGHT=N',                                    
 //             'TIMEZONE=H',                                    
-//             'SYSID=CMST',                                    
+//             'SYSID=CMAS',                                    
 //             'ZONEOFFSET=0')                                  
 //EYUXDPRM  DD *                                                
  WUI=YES                                                        
