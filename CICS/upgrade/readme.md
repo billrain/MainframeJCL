@@ -1,4 +1,5 @@
-Simple steps to upgrade CICS from 5.4 to 5.6
+This chapter covers steps to upgrade CICS to a higher version, steps vary from version to version, refer to official migration manual for full workflow. Validated for upgrading CICS 5.6 from 5.4.
+
 1. Check OS and SW compatibility with CICS 5.6
 2. Order install package and download
 3. Upload package to uss folder
